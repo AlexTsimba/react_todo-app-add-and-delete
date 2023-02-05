@@ -3,7 +3,7 @@
 ## Overview
 This is a study project that is a **Todo application** that allows users to **create**, **read**, **update**, and **delete** todos.
 
-The project is deployed using **gh-pages** and can be viewed [here](https://alextsimba.github.io/react_todo-app-add-and-delete/#/).
+The project is deployed using **gh-pages** and can be viewed [here](https://alextsimba.github.io/Todo_app/#/).
 
 ## Technical Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
