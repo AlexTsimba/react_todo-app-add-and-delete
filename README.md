@@ -2,18 +2,12 @@
 
 ## Overview
 This is a study project that is a **Todo application** that allows users to **create**, **read**, **update**, and **delete** todos. The project is built with **React**, and is written in **TypeScript**.
+The project is deployed using gh-pages and can be viewed here.
 
 ## Technical Stack
-- **React**: A JavaScript library for building user interfaces.
-- **TypeScript**: A typed superset of JavaScript that adds static typing and other features.
-- **Bulma**: CSS framework
-- **gh-pages**: Deployment tool
-- **fontawesome-free**: Icon library
-- **eslint**: Linter for JavaScript
-- **stylelint**: Linter for CSS
-- **Context API**: A way for components to share data without having to pass props down manually through multiple levels.
-- **Local Storage**: A way to store data in the browser for the current website.
-- **REST API**: A way for the application to communicate with the server using HTTP requests.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 
 ## Features
 - **User login and authentication**: The project uses a mock API to handle user authentication and session management. The user is able to register or login and the application will use the information to make authorized requests to the server.
